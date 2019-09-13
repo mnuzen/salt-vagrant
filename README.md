@@ -2,6 +2,9 @@
 Everbridge - Site reliability Engineering Tech Exercise
 ======================
 
+## Vagrant, Nginx, SAlt
+
+This is my attempt to solve the tech challenge I was given (instructions below) during my time at Everbridge. This solution implements vagrant, salt, and Nginx.
 
 ## Challenge
 
